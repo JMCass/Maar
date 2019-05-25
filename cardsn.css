@@ -1,0 +1,59 @@
+.col-md-3 {
+    margin-bottom: -54px;
+    margin-top: 75px;
+}
+
+.btn {
+    color: #fff;
+    background-color: #7E741F;
+    border-color: #7E741F;
+}
+
+.inputcard{
+	margin-top: 40px;
+}
+
+.card-img-top {
+    width: 100%;
+}
+
+.mt-3, .my-3 {
+    margin-top: 5rem!important;
+    background-color: #ADBBBB;
+}
+
+.inputcard {
+    margin-top: 15px;
+}
+
+.text1{
+    font-weight: 850!important;
+    text-align: center;
+    font-size: 40px;
+}
+
+footer{
+	color:#56171B;
+}
+
+.dark-grey-text{
+	color:#56171B;
+}
+
+.navbar-light .navbar-brand {
+    color: #56171B;
+}
+
+.bg-light {
+    background-color: #ADBBBB!important;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #56171B;
+}{
+	color: #56171B;
+}
+
+.car-body{
+	padding:1rem;
+}
