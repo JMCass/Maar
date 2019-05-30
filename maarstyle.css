@@ -96,7 +96,11 @@ footer{
 
 h6{
 	color: white;
-	text-align: center;
+	text-align: inherit;
+}
+
+.summary{
+	text-align:center;
 }
 
 footer .container{
@@ -105,6 +109,7 @@ footer .container{
 
 .fas fa-home mr-3{
 	color: white;
+	font-size: 12px;
 }
 
 p{
@@ -146,15 +151,18 @@ h5{
 }
 
 .logo{
-  position: relative;
+  position: absolute;
   text-align: center;
   color: #orange;
   font-size: 24px;
   font-family: 'Comfortaa', cursive;
+  bottom: 20px; 
+  right: 50px
 }
 
 .fab{
 	color:white;
+	font-size: 18px;
 }
 
 .fa-genderless{
@@ -171,4 +179,12 @@ color:#7ad0d6;
 
 .fa-venus{
 	color:#7ad0d6;
+}
+
+.page-footer{
+	background-color: #99d4d8;
+}
+
+.teal{
+	width: 60px;
 }
