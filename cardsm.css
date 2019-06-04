@@ -1,16 +1,22 @@
+main{
+    text-align: justify;
+  font-family: 'Comfortaa', cursive;
+}
+
+
 .col-md-3 {
-    margin-bottom: -54px;
-    margin-top: 75px;
+    margin-bottom: 25px;
+    margin-top: 0px;
 }
 
 .btn {
     color: #fff;
-    background-color: #1BC7E5;
-    border-color: #1BC7E5;
+    background-color: #ffa500;
+    border-color: #ffa500;
 }
 
 .inputcard{
-	margin-top: 40px;
+    margin-top: 40px;
 }
 
 .card-img-top {
@@ -19,7 +25,7 @@
 
 .mt-3, .my-3 {
     margin-top: 5rem!important;
-    background-color: #194B62;
+    background-color: #f7e991;
 }
 
 .inputcard {
@@ -33,39 +39,39 @@
 }
 
 footer{
-	color:#FFFF;
+    color:#f7901b;
 }
 
 .dark-grey-text{
-	color:#FFFF;
+    color:#f7901b;
 }
 
 .navbar-light .navbar-brand {
-    color: #FFFF;
+    color: #f7901b;
 }
 
 .bg-light {
-    background-color: #194B62!important;
+    background-color: #f7e991!important;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #FFFF;
+    color: #f7901b;
 }{
-	color: #FFFF;
+    color: #f7901b;
 }
 
-.car-body{
-	padding:1rem;
+.card-body{
+    padding:1rem;
 }
 
-.dark-grey-text {
-    color: #FFFF;
-    font-family: 'Comfortaa', cursive;
-    font-size: 16px;
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 80px;
+    margin-bottom: 25px;
 }
 
-.font-weight-bold {
-    font-weight: 700!important;
-    margin-top: 14px;
-    margin-bottom: 14px;
+.row-end{
+    margin-top: -40px;
+    margin-bottom: -40px;
 }

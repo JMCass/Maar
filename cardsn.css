@@ -1,16 +1,22 @@
+main{
+    text-align: justify;
+  font-family: 'Comfortaa', cursive;
+}
+
+
 .col-md-3 {
-    margin-bottom: -54px;
-    margin-top: 75px;
+    margin-bottom: 25px;
+    margin-top: 0px;
 }
 
 .btn {
     color: #fff;
-    background-color: #7E741F;
-    border-color: #7E741F;
+    background-color: #ffa500;
+    border-color: #ffa500;
 }
 
 .inputcard{
-	margin-top: 40px;
+    margin-top: 40px;
 }
 
 .card-img-top {
@@ -19,7 +25,7 @@
 
 .mt-3, .my-3 {
     margin-top: 5rem!important;
-    background-color: #ADBBBB;
+    background-color: #f7e991;
 }
 
 .inputcard {
@@ -33,27 +39,39 @@
 }
 
 footer{
-	color:#56171B;
+    color:#f7901b;
 }
 
 .dark-grey-text{
-	color:#56171B;
+    color:#f7901b;
 }
 
 .navbar-light .navbar-brand {
-    color: #56171B;
+    color: #f7901b;
 }
 
 .bg-light {
-    background-color: #ADBBBB!important;
+    background-color: #f7e991!important;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #56171B;
+    color: #f7901b;
 }{
-	color: #56171B;
+    color: #f7901b;
 }
 
-.car-body{
-	padding:1rem;
+.card-body{
+    padding:1rem;
+}
+
+.row{
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top: 80px;
+    margin-bottom: 25px;
+}
+
+.row-end{
+    margin-top: -40px;
+    margin-bottom: -40px;
 }

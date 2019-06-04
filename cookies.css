@@ -83,12 +83,38 @@ h1{
 	font-family: 'Comfortaa', cursive;
   	color: white;
   	font-size: 45px;
+  	text-align: left;
+    margin-left: 95px;
+
 }
 
 .bg-primary {
-    background-color: #E59B74!important;
+    background-color: #272E34!important;
 }
 
 .fab{
 	color:white;
+}
+
+.index{
+	margin-top: 6px;
+
+}
+
+.tabstyle{
+	color:black;
+	text-align: justify;
+	font-size: 14px;
+	padding:0 30px 0 30px;
+
+}
+
+tbody{
+	display: table-row-group;
+}
+
+table{
+	border-collapse: collapse;
+    border-spacing: 60px;
+}
 }

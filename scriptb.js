@@ -26,13 +26,16 @@
                             "<img src='"+portfolio.wear+"' class='card-img-top'>"+
                             "<div class='card-body'>"+
                                 "<h5 class='card-title'>"+portfolio.name+"</h5>"+
-                                "<p class='card-text'>"+portfolio.description+"</p>"+
+                                "<p class='card-middle'>"+portfolio.description+"</p>"+
+                                "<a class='card-text'>"+portfolio.author+"</a><br>"+
+                                "<a class='card-text'>"+portfolio.collection+"</a>"+
                                 "<a href='"+portfolio.see_more+"'class='btn btn-primary'>Comprar</a>"+
                             "</div>"+
                         "</div>"+
                     "</div>";
         
         return html;
+        
     }
 
     for(var i = 0; i < wear.length; i++){
